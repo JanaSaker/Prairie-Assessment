@@ -1,6 +1,5 @@
 body{
-    margin:auto;
-    margin-left: 25%;
+    margin-left: 17%;
     display: flex; 
      grid-template-columns: 1fr,1fr;
      column-gap: 150px;
@@ -14,17 +13,48 @@ p{
 img{
     display: flex;
     grid-template-columns: 1fr,1fr;
-
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
 }
 input{
     border-color: #cbcce8;
     font-weight: lighter;
-    font-size: 20;
+    font-size: 24px;
+    border-radius: 5px;
+    width: 350px;
+    margin-top: 7px;
 }
-input[type="text"]{
-    text-align: center;
-    text-size: 20px;
+
+.Sign{
+    background-color: #5429ff;
+    border-color: #5429ff;
+    color: white;
 }
+
 .content{
-    margin-top: 20%;
+    margin-top: 10%;
+}
+.forget{
+    color: blue;
+}
+button{
+    font-size: 20px;
+    object-fit: none;
+    width:350px;
+    border-radius: 7px;
+    height: 45px;
+}
+.signUp{
+    margin-left: 55px;
+    
+}
+.Google{
+    border-color: lightgray;
+    background-color: white;
+}
+.signs{
+    color:blue;
+    font-weight: bold;
 }

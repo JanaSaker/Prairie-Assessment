@@ -20,7 +20,7 @@ C. The virtual DOM is a programming concept where an ideal, or “virtual”, re
 D. The virtual DOM is an exact replica of the referenced "DOM", having same functionality and structure, which enables good user interface
 
 Answer:
-
+C
 ------------
 
 Question:
@@ -56,7 +56,7 @@ C. It is the action of reloading the Web page.
 D. It returns the HTML, which is to be displayed in the component.
 
 Answer:
-
+D
 ------------
 
 Question:
@@ -68,3 +68,4 @@ C. The state is a built-in React object that is used to contain data or informat
 D. State is a routing library built on top of React, which is used to set values in a React application. 
 
 Answer:
+C
