@@ -7,6 +7,7 @@ C. By using JSX, we can compile Javascript code to the browser.
 D. JSX is the engine used by web browser to render Javascript code.
 
 Answer:
+B
 
 ------------
 
@@ -31,7 +32,7 @@ C. A component makes it that it is unnecessary to bind ‘this’ inside the con
 D. A component is essentially a piece of the user interface. It splits the user interface into independent, reusable parts that can be processed separately.
 
 Answer:
-
+D
 ------------
 
 Question:
@@ -43,7 +44,7 @@ C. State, Prop Components.
 D. Singular, Multiple Components.
 
 Answer:
-
+B
 ------------
 
 Question:
