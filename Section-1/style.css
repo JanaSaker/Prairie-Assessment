@@ -1,0 +1,29 @@
+body{
+    margin:auto;
+    margin-left: 25%;
+    display: flex; 
+     grid-template-columns: 1fr,1fr;
+     column-gap: 150px;
+
+}
+p{
+    color: grey;
+    margin-top: -25px;
+    margin-bottom: 50px;
+}
+img{
+    display: flex;
+    grid-template-columns: 1fr,1fr;
+}
+input{
+    border-color: #cbcce8;
+    font-weight: lighter;
+    font-size: 20;
+}
+input[type="text"]{
+    text-align: center;
+    text-size: 20px;
+}
+.content{
+    margin-top: 20%;
+}
